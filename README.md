@@ -1,2 +1,13 @@
 # technesis_test_case
-Test case fot technesis vacancy
+Тестовое задание для ТЕХНЕЗИС (Python)
+
+# Для запуска приложения:
+1. Клонировать репозиторий.
+2. Создать виртуальное окружение.
+3. Установить библиотеки при помощи requriments.txt
+4. Cоздать файл .env: 
+BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+5. Запустить из репозитория командой 
+> python bot.py
+
+# Выполнил Горяев И.А. Tg. @JohanRed93
